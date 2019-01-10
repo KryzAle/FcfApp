@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/cbFloreros"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Floreros" />
+
+        <CheckBox
+            android:id="@+id/cbGlobos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Globos" />
+
+        <CheckBox
+            android:id="@+id/cbCintas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cintas" />
+
+        <Button
+            android:id="@+id/btnAceptarDecoracion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aceptar" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCF</string>
+    <string name="titulo_ventana_admin">Panel de Administrador</string>
+    <string name="facebook_app_id">454724484906044</string>
+
+    <string name="log_out">Cancelar y cerrar sesion</string>
+    <string name="error_message">!Oh ha ocurrido un error¡:</string>
+    <string name="guia_inicio">Utilice los botones a continuacion para seleccionar las opciones requeridas por usted</string>
+</resources>
